@@ -3,4 +3,4 @@ calculator android dengan menggunakan android studio dan berbahasa java
 menggunakan library tambahan yaitu mathparser yang mempermudah logic penghitungan
 
 v.1.1
-menambahkan fitur recent history
+memfix calculator app bug error dibawah android x
