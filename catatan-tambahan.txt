@@ -1,2 +1,6 @@
+v.1.0
 calculator android dengan menggunakan android studio dan berbahasa java
 menggunakan library tambahan yaitu mathparser yang mempermudah logic penghitungan
+
+v.1.1
+menambahkan fitur recent history
