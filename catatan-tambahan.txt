@@ -1,0 +1,2 @@
+calculator android dengan menggunakan android studio dan berbahasa java
+menggunakan library tambahan yaitu mathparser yang mempermudah logic penghitungan
