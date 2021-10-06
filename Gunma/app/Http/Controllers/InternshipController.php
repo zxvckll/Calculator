@@ -12,6 +12,7 @@ class InternshipController extends Controller
 {
     /**
      * Display a listing of the resource.
+     * //a
      *
      * @return \Illuminate\Http\Response
      */
